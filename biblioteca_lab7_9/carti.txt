@@ -1,0 +1,10 @@
+1,ion,roman obiectiv,liviu rebreanu
+2,moara cu noroc,nuvela,slavici
+3,crima si pedeapsa,tragic,dostoievski
+4,harap alb,basm,ion creanga
+5,enigma otiliei,roman,g.calinescu
+6,tata bogat tata sarac,business,kiyosaki
+7,codul lui davinci,mister,dan brown
+8,aventurile lui tom sawyer,literatura pentru copii,mark twain
+9,ultima noapte de dragoste intaia noapte de razboi,drama,camil petrescu
+10,morometii,roman social,marin preda
